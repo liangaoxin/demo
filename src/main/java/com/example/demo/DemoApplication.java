@@ -9,7 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
 
         //第三次
-        //第四次 hot-fix
+        //第四次 hot-fix 主干测试
         SpringApplication.run(DemoApplication.class, args);
     }
 
